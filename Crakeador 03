@@ -1,1 +1,0 @@
-apt-get update -y; apt-get upgrade -y; wget https://raw.githubusercontent.com/fabricio94b/VPS-MANAGER-1.0/main/Plus; chmod 777 Plus; ./Plus
